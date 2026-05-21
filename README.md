@@ -1,10 +1,10 @@
-# 🎨 Poster App
+# Poster App
 
 A simple Flutter application that demonstrates the basic structure of a Flutter app using `MaterialApp`, `StatefulWidget`, and `Scaffold`.
 
 ---
 
-## 📚 About
+## About
 
 This application is designed to help users understand:
 
@@ -16,7 +16,7 @@ This application is designed to help users understand:
 
 ---
 
-## ✨ Features
+## Features
 
 - Material Design user interface
 - AppBar with title
@@ -26,7 +26,7 @@ This application is designed to help users understand:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 lib/
@@ -43,7 +43,7 @@ lib/
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 | Concept | Description |
 |---------|-------------|
@@ -58,7 +58,7 @@ lib/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -96,7 +96,7 @@ flutter run
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -106,7 +106,7 @@ flutter run
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Navigation between multiple screens
 - [ ] State management (Provider / Riverpod / Bloc)
@@ -117,13 +117,13 @@ flutter run
 
 ---
 
-## 👤 Author
+## Author
 
 **Akanshu Jamwal**
 Flutter Developer
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
